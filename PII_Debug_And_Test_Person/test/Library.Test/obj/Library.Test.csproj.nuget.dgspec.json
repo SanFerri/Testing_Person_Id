@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\sanbr\\OneDrive\\Escritorio\\Programacion II\\Testing_Person_Id\\PII_Debug_And_Test_Person\\test\\Library.Test\\Library.Test.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\sanbr\\OneDrive\\Escritorio\\Programacion II\\Testing_Person_Id\\PII_Debug_And_Test_Person\\src\\Library\\Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\sanbr\\OneDrive\\Escritorio\\Programacion II\\Testing_Person_Id\\PII_Debug_And_Test_Person\\src\\Library\\Library.csproj",
+        "projectName": "Library",
+        "projectPath": "c:\\Users\\sanbr\\OneDrive\\Escritorio\\Programacion II\\Testing_Person_Id\\PII_Debug_And_Test_Person\\src\\Library\\Library.csproj",
+        "packagesPath": "C:\\Users\\sanbr\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\sanbr\\OneDrive\\Escritorio\\Programacion II\\Testing_Person_Id\\PII_Debug_And_Test_Person\\src\\Library\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sanbr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\sanbr\\OneDrive\\Escritorio\\Programacion II\\Testing_Person_Id\\PII_Debug_And_Test_Person\\test\\Library.Test\\Library.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\sanbr\\OneDrive\\Escritorio\\Programacion II\\Testing_Person_Id\\PII_Debug_And_Test_Person\\test\\Library.Test\\Library.Test.csproj",
+        "projectName": "Library.Test",
+        "projectPath": "c:\\Users\\sanbr\\OneDrive\\Escritorio\\Programacion II\\Testing_Person_Id\\PII_Debug_And_Test_Person\\test\\Library.Test\\Library.Test.csproj",
+        "packagesPath": "C:\\Users\\sanbr\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\sanbr\\OneDrive\\Escritorio\\Programacion II\\Testing_Person_Id\\PII_Debug_And_Test_Person\\test\\Library.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sanbr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "c:\\Users\\sanbr\\OneDrive\\Escritorio\\Programacion II\\Testing_Person_Id\\PII_Debug_And_Test_Person\\src\\Library\\Library.csproj": {
+                "projectPath": "c:\\Users\\sanbr\\OneDrive\\Escritorio\\Programacion II\\Testing_Person_Id\\PII_Debug_And_Test_Person\\src\\Library\\Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.8.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            },
+            "coverlet.msbuild": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

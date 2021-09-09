@@ -1,0 +1,12 @@
+c:\Users\sanbr\OneDrive\Escritorio\Programacion II\Testing_Person_Id\PII_Debug_And_Test_Person\src\Library\bin\Debug\net5.0\Library.deps.json
+c:\Users\sanbr\OneDrive\Escritorio\Programacion II\Testing_Person_Id\PII_Debug_And_Test_Person\src\Library\bin\Debug\net5.0\Library.dll
+c:\Users\sanbr\OneDrive\Escritorio\Programacion II\Testing_Person_Id\PII_Debug_And_Test_Person\src\Library\bin\Debug\net5.0\ref\Library.dll
+c:\Users\sanbr\OneDrive\Escritorio\Programacion II\Testing_Person_Id\PII_Debug_And_Test_Person\src\Library\bin\Debug\net5.0\Library.pdb
+c:\Users\sanbr\OneDrive\Escritorio\Programacion II\Testing_Person_Id\PII_Debug_And_Test_Person\src\Library\obj\Debug\net5.0\Library.csproj.AssemblyReference.cache
+c:\Users\sanbr\OneDrive\Escritorio\Programacion II\Testing_Person_Id\PII_Debug_And_Test_Person\src\Library\obj\Debug\net5.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\sanbr\OneDrive\Escritorio\Programacion II\Testing_Person_Id\PII_Debug_And_Test_Person\src\Library\obj\Debug\net5.0\Library.AssemblyInfoInputs.cache
+c:\Users\sanbr\OneDrive\Escritorio\Programacion II\Testing_Person_Id\PII_Debug_And_Test_Person\src\Library\obj\Debug\net5.0\Library.AssemblyInfo.cs
+c:\Users\sanbr\OneDrive\Escritorio\Programacion II\Testing_Person_Id\PII_Debug_And_Test_Person\src\Library\obj\Debug\net5.0\Library.csproj.CoreCompileInputs.cache
+c:\Users\sanbr\OneDrive\Escritorio\Programacion II\Testing_Person_Id\PII_Debug_And_Test_Person\src\Library\obj\Debug\net5.0\Library.dll
+c:\Users\sanbr\OneDrive\Escritorio\Programacion II\Testing_Person_Id\PII_Debug_And_Test_Person\src\Library\obj\Debug\net5.0\ref\Library.dll
+c:\Users\sanbr\OneDrive\Escritorio\Programacion II\Testing_Person_Id\PII_Debug_And_Test_Person\src\Library\obj\Debug\net5.0\Library.pdb
